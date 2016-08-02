@@ -1,0 +1,3 @@
+Analyzing the worst-case run-time complexity of the member function clear() of Stack
+The clear function runs through each entry and destroys
+them causing the clear function to be O(N) complexity. 
