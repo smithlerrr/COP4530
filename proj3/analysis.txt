@@ -1,0 +1,4 @@
+Algorithm Analysis
+
+Within the reverse function, there are two “for loops” that contain 
+2 atomic operations each.  The complexity = Θ(2n + 2n) = Θ(n).
