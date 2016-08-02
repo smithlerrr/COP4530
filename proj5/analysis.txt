@@ -1,0 +1,5 @@
+Analyze the worst-case time complexity of the private member function makeEmpty(BinaryNode* & t) of the binary expression tree. Give the complexity in the form of Big-O.
+
+Complexity Analysis for the fucntion "makeEmpty(BinaryNode* &t)"
+The function begins at the leaf nodes of the binary tree. As it makes its way to the root node, 
+the function deletes each node in the tree. The time complexity in Big-O notation is O(N).
